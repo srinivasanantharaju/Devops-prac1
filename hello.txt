@@ -1,0 +1,2 @@
+Hello world
+devops practical 1
